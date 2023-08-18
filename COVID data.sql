@@ -1,3 +1,6 @@
+--Drive Link for downloading the data
+-- https://drive.google.com/drive/folders/1-eEfJ4zFMYz4Y71Wa1PtafLkk97rGbYH?usp=sharing
+
 --Displaying the data of the deaths through COVID
 SELECT *
 FROM PortfolioProject..CovidDeath
